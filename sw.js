@@ -3,7 +3,6 @@ const urlsToCache = [
     "./",
     "./?umt_source=web_app_manifest",
     "./pages/fallback.html",
-    "./../css/style.css",
     "./img/favicon.png",
     "./img/icon32.png",
     "./img/icon64.png",
